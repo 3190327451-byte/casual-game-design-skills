@@ -1,0 +1,8 @@
+interface:
+  display_name: "Casual Game Monetization Designer"
+  short_description: "Design and audit ads, IAP, and offers"
+  default_prompt: "Use $casual-game-monetization-designer to design or review this casual-game monetization flow."
+
+policy:
+  allow_implicit_invocation: true
+

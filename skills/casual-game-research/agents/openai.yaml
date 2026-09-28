@@ -1,0 +1,8 @@
+interface:
+  display_name: "Casual Game Research"
+  short_description: "Research casual games and competitors clearly"
+  default_prompt: "Use $casual-game-research to research this casual-game question and give concise evidence-backed conclusions."
+
+policy:
+  allow_implicit_invocation: true
+

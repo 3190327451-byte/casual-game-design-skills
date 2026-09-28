@@ -1,0 +1,8 @@
+interface:
+  display_name: "Casual Game UX Spec"
+  short_description: "Specify casual-game UI, copy, and feedback"
+  default_prompt: "Use $casual-game-ux-spec to define this casual-game UI or presentation behavior."
+
+policy:
+  allow_implicit_invocation: true
+

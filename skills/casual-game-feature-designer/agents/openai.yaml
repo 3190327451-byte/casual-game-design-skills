@@ -1,0 +1,8 @@
+interface:
+  display_name: "Casual Game Feature Designer"
+  short_description: "Design persistent casual-game systems"
+  default_prompt: "Use $casual-game-feature-designer to define this casual-game feature clearly."
+
+policy:
+  allow_implicit_invocation: true
+

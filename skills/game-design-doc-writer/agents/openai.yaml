@@ -1,0 +1,8 @@
+interface:
+  display_name: "Casual Game Design Router"
+  short_description: "Route and coordinate casual-game design work"
+  default_prompt: "Use $game-design-doc-writer to plan, draft, or review this casual-game design request."
+
+policy:
+  allow_implicit_invocation: true
+

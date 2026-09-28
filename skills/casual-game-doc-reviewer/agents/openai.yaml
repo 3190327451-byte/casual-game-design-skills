@@ -1,0 +1,8 @@
+interface:
+  display_name: "Casual Game Document Reviewer"
+  short_description: "Find logic gaps and cross-document conflicts"
+  default_prompt: "Use $casual-game-doc-reviewer to check this casual-game document and propose precise fixes."
+
+policy:
+  allow_implicit_invocation: true
+

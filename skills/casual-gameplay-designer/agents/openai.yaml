@@ -1,0 +1,8 @@
+interface:
+  display_name: "Casual Gameplay Designer"
+  short_description: "Design clear testable casual-game mechanics"
+  default_prompt: "Use $casual-gameplay-designer to design or clarify this casual-game mechanic."
+
+policy:
+  allow_implicit_invocation: true
+

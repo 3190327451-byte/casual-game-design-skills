@@ -1,0 +1,7 @@
+interface:
+  display_name: "Casual Game Acceptance"
+  short_description: "Create concise executable game test cases"
+  default_prompt: "Use $casual-game-acceptance to create a simple complete acceptance case for this requirement."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,8 @@
+interface:
+  display_name: "Casual Game Event Designer"
+  short_description: "Design timed and rotating casual-game events"
+  default_prompt: "Use $casual-game-event-designer to design this casual-game event and its edge cases."
+
+policy:
+  allow_implicit_invocation: true
+
